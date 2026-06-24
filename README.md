@@ -6,7 +6,7 @@
 
 ### 🎥 Video Walkthrough
 
-**Add your Loom video link here**
+**https://drive.google.com/file/d/1dl-iZdYd31CdeIQNxQfPzMau68DxNJ5D/view?usp=sharing**
 
 ---
 
