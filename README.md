@@ -85,4 +85,4 @@ php artisan serve
 
 ---
 
-Built for **Forge 2 Edition 1 Qualifier** 🚀
+Built for **Forge 2 Edition 2 Qualifier** 🚀
